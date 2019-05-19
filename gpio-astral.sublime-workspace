@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nar",
+				"narocnina_id"
+			],
+			[
+				"naro",
+				"Narocnina"
+			],
+			[
+				"Moja",
+				"MojaReklamacija"
+			],
+			[
+				"re",
+				"reklamacije"
+			],
+			[
+				"Splosn",
+				"SplosnaZadeva"
+			],
+			[
+				"gmail",
+				"gmailapi_label_id"
+			],
+			[
+				"find",
+				"find_element_by_xpath"
+			],
+			[
+				"form",
+				"form_valid"
+			],
+			[
+				"Garancija",
+				"GarancijaFactory"
+			],
+			[
+				"find_element",
+				"find_element_by_link_text"
+			],
+			[
+				"find_element_by",
+				"find_element_by_xpath"
+			],
+			[
+				"Gara",
+				"GarancijaFactory"
+			],
+			[
+				"arhivs",
+				"arhivska_mapa"
+			],
+			[
+				"reverse",
+				"reverse_lazy"
+			],
+			[
+				"get",
+				"get_queryset"
+			],
+			[
+				"spac",
+				"word-spacing\tproperty"
+			],
+			[
+				"preda",
+				"predaje_daljincev"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pavlovicv/dev/gpio-astral"
+	],
+	"file_history":
+	[
+		"/home/pavlovicv/dev/mojdom/apps/stroski/forms.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/forms.py",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/strosek_create/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/strosek_update/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/stroskovno_mesto_create/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/stroskovno_mesto_delete/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/stroskovno_mesto_update/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/opravila/templates/opravila/izvajanje_create/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/stroskovno_mesto_list/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/stroskovno_mesto_list/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/strosek_delete/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/strosek_list/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/stroski/templates/stroski/strosek_list/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_create/base/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/aktivnost_create/title.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/aktivnost_create/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/aktivnost_create/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/templates/base_bck.html",
+		"/home/pavlovicv/dev/mojdom/apps/templates/base.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/forms.py",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/forms.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_update/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_detail/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_detail/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_detail/title.html",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_list/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_list/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_create/base/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_list/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_update/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_create/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_delete/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_delete/title.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_list/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_list/title.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_list/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_update/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/pregled_arhivskih_map/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_detail/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_detail/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_detail/title.html",
+		"/home/pavlovicv/dev/mojdom/apps/arhiv/templates/arhiv/arhivska_mapa_create/title.html",
+		"/home/pavlovicv/dev/mojdom/apps/static/css/test_layout.css",
+		"/home/pavlovicv/dev/mojdom/apps/static/css/project.css",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_detail/base.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_list/base.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/aktivnost_update/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/aktivnost_update/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_update/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/aktivnost_update/title.html",
+		"/home/pavlovicv/dev/mojdom/config/urls.py",
+		"/home/pavlovicv/dev/mojdom/apps/templates/base_test_layout.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_detail/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_detail/title.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/aktivnost_detail/content_files.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_list/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosna_zadeva_detail/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/templates/pages/test_layout.html",
+		"/home/pavlovicv/dev/mojdom/apps/templates/base2.html",
+		"/home/pavlovicv/dev/mojdom/apps/templates/account/login.html",
+		"/home/pavlovicv/dev/mojdom/apps/static/css/signin.css",
+		"/home/pavlovicv/dev/eda5/eda5/@templates/base.html",
+		"/home/pavlovicv/dev/mojdom/apps/opravila/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/views.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/views.py",
+		"/home/pavlovicv/dev/mojdom/functional_tests/test_reklamacije.py",
+		"/home/pavlovicv/dev/mojdom/apps/reklamacije/templates/reklamacije/reklamacija_list/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/reklamacije/templates/reklamacije/reklamacija_detail/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/reklamacije/views.py",
+		"/home/pavlovicv/dev/mojdom/apps/reklamacije/urls.py",
+		"/home/pavlovicv/dev/mojdom/apps/reklamacije/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/reklamacije/templates/reklamacije/reklamacija_list/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/reklamacije/forms.py",
+		"/home/pavlovicv/dev/mojdom/apps/reklamacije/admin.py",
+		"/home/pavlovicv/dev/mojdom/apps/core/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosno_detail/action.html",
+		"/home/pavlovicv/dev/mojdom/functional_tests/test_aktivnosti.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/aktivnost_list/content.html",
+		"/home/pavlovicv/dev/mojdom/config/settings/local.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/urls.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/views.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/urls.py",
+		"/home/pavlovicv/dev/mojdom/config/settings/test.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/templates/aktivnosti/splosno_list/action.html",
+		"/home/pavlovicv/dev/mojdom/functional_tests/test_pogodbe.py",
+		"/home/pavlovicv/dev/mojdom/apps/narocnina/mixins.py",
+		"/home/pavlovicv/dev/mojdom/apps/narocnina/views.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/helpers.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/templates/garancije/garancija_detail/base.html",
+		"/home/pavlovicv/dev/mojdom/apps/gmailapi/views.py",
+		"/home/pavlovicv/dev/mojdom/apps/users/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/gmailapi/helpers.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/tests/test_views.py",
+		"/home/pavlovicv/dev/mojdom/config/settings/base.py",
+		"/home/pavlovicv/dev/mojdom/functional_tests/test_garancije.py",
+		"/home/pavlovicv/dev/mojdom/apps/narocnina/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/narocnina/middleware.py",
+		"/home/pavlovicv/dev/mojdom/.gitignore",
+		"/home/pavlovicv/dev/mojdom/apps/gmailapi/templates/index.html",
+		"/home/pavlovicv/dev/mojdom/client_secrets.json",
+		"/home/pavlovicv/dev/mojdom/apps/narocnina/templates/narocnina/dashboard/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/gmailapi/apps.py",
+		"/home/pavlovicv/dev/mojdom/apps/gmailapi/urls.py",
+		"/home/pavlovicv/dev/mojdom/apps/static/js/gmailapi.js",
+		"/home/pavlovicv/dev/mojdom/requirements/base.txt",
+		"/home/pavlovicv/dev/mojdom/apps/gmailapi/templates/__init__.py",
+		"/home/pavlovicv/dev/mojdom/apps/gmailapi/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/gmailapi/admin.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/tests/test_views.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/tests/test_models.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/tests/factories.py",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/tests/test_views.py",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/templates/pogodbe/pogodba_detail/action.html",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/urls.py",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/templates/pogodbe/pogodba_list/content.html",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/tests/factories.py",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/partnerji/tests/test_views.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/tests/test_forms.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/tests/test_models.py",
+		"/home/pavlovicv/dev/mojdom/apps/narocnina/tests/factories.py",
+		"/home/pavlovicv/dev/mojdom/apps/partnerji/tests/test_models.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/models.py",
+		"/home/pavlovicv/dev/mojdom/apps/garancije/tests/factories.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/tests/__init__.py",
+		"/home/pavlovicv/dev/mojdom/apps/aktivnosti/tests/test_forms.py",
+		"/home/pavlovicv/dev/mojdom/apps/pogodbe/templates/pogodbe/pogodba_list/action.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 397.0,
+		"where_history":
+		[
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p-",
+			"img",
+			"logo",
+			"chart",
+			"artikel",
+			"time.slee",
+			"time",
+			"DEBUG",
+			"time",
+			"TEST",
+			"narocnina",
+			"narocnine ne",
+			"is_test",
+			"sett",
+			"print",
+			"print(",
+			"scope",
+			"auth_re",
+			"gmail_authe",
+			"redirect",
+			"garan",
+			"Narocnina",
+			"specific_form",
+			"LOCALE",
+			"DATE",
+			"Garancije",
+			"']\n",
+			"GarancijaFactor",
+			"[]\n",
+			"post_genera",
+			"factory"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"form"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 145.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "",
+	"project": "gpio-astral.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
