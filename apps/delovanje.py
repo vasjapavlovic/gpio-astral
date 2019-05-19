@@ -15,9 +15,9 @@ soncni_zahod = sonce['zahod']
 soncni_vzhod = sonce['vzhod']
 
 # Kalkulacija trenutnega časa
-offset_ur = 0  # pozitivno število
+odmik_ur = 0  # pozitivno število
 trenutni_cas = datetime.now()
-trenutni_cas = trenutni_cas + timedelta(hours=offset_ur)
+trenutni_cas = trenutni_cas + timedelta(hours=odmik_ur)
 trenutni_cas = trenutni_cas.time()
 
 # Led modul
