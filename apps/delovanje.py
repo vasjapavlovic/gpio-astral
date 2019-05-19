@@ -21,7 +21,7 @@ trenutni_cas = trenutni_cas + timedelta(hours=offset_ur)
 trenutni_cas = trenutni_cas.time()
 
 # Led modul
-#led = CameraLED()
+led = CameraLED()
 
 # Delovanje
 while True:
